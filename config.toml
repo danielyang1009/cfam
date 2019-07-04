@@ -1,5 +1,5 @@
 title = "中国金融学年会"
-baseURL = "https://example.com"
+baseURL = "https://danielyang1009.github.io/cfam/"
 languageCode = "zh-CN"
 theme = "gohugo-theme-ananke"
 # themesDir = "../.."
